@@ -1,0 +1,28 @@
+body {
+	background:  url(D:/Laboratory/Chellange/Landing%20Page/Images/pexels-photo-544117.jpeg)no-repeat fixed; 
+	background-size: cover;
+	height: 200px;
+}
+
+.jumbotron {
+	background: rgba(0,0,0,0);
+}
+
+.secAbout{
+	background: #D7CCC8;
+}
+
+.coffeeTeori1 {
+	text-align: justify;
+	color: black;
+}
+
+.row p strong {
+	font-family: 'Cute Font', cursive;
+	font-size: 25px;
+}
+
+.coffeeTeori2{
+	text-align: justify;
+	color: black;
+}
